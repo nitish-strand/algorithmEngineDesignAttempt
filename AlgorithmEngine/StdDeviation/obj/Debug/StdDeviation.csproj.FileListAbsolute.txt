@@ -1,0 +1,17 @@
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\StdDeviation.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\StdDeviation.pdb
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\AlgorithmEngine.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\dataset.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\framework.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\NPOI.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\NPOI.OOXML.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\NPOI.OpenXml4Net.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\AlgorithmEngine.pdb
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\dataset.pdb
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\bin\Debug\ICSharpCode.SharpZipLib.xml
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\obj\Debug\StdDeviation.csprojAssemblyReference.cache
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\obj\Debug\StdDeviation.csproj.CopyComplete
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\obj\Debug\StdDeviation.dll
+D:\AlgorithmEngine\AlgorithmEngine\StdDeviation\obj\Debug\StdDeviation.pdb

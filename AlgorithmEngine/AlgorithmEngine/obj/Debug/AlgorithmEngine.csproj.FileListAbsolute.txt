@@ -1,0 +1,5 @@
+D:\AlgorithmEngine\AlgorithmEngine\AlgorithmEngine\bin\Debug\AlgorithmEngine.dll
+D:\AlgorithmEngine\AlgorithmEngine\AlgorithmEngine\bin\Debug\AlgorithmEngine.pdb
+D:\AlgorithmEngine\AlgorithmEngine\AlgorithmEngine\obj\Debug\AlgorithmEngine.csprojAssemblyReference.cache
+D:\AlgorithmEngine\AlgorithmEngine\AlgorithmEngine\obj\Debug\AlgorithmEngine.dll
+D:\AlgorithmEngine\AlgorithmEngine\AlgorithmEngine\obj\Debug\AlgorithmEngine.pdb
